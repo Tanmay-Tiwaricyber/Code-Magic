@@ -32,7 +32,7 @@ A website to help you get simple tricks you can use in your applications with ht
 
 ## 🧑🏾‍💻 Demo
 
-Check out the website: [Code Magic](https://Code-Magic.vercel.app/)
+Check out the website: [Code Magic](code-magic-coral.vercel.app)
 
 ## 👇🏽 Prerequisites
 
