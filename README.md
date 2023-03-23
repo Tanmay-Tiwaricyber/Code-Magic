@@ -102,7 +102,7 @@ git push
 
 ## 👨‍👩‍👦 Community
 
-Don't forget to join the discord community - [Join us](https://discord.com/invite/ufcysW9q23)
+Don't forget to join the discord community - [Join us](https://discord.gg/t2vDRdpQ)
 
 ## 👩🏽‍💻 Contributing
 
